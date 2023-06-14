@@ -1,9 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
-import { createTheme, ThemeOptions } from "@mui/material/styles";
+import { createTheme, ThemeOptions, ThemeProvider } from "@mui/material/styles";
 import { Roboto } from "next/font/google";
 import { NextAppDirEmotionCacheProvider } from "./EmotionCache";
 
@@ -20,7 +19,8 @@ const themeOptions: ThemeOptions = {
   },
   palette: {
     background: {
-      default: "rgb(0, 255, 255)",
+      // pink
+      default: "#f8bbd0",
     },
     primary: {
       main: "#1976d2",
