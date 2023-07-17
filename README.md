@@ -1,7 +1,7 @@
 # Next 13 App Router and Mui v5 Setup
 
 Introduction:
-Welcome to my YouTube tutorial on integrating Next.js 13, the latest version of the popular React framework, with MUI v5, the next generation of Material-UI components. In this comprehensive guide, we will walk you through the process of leveraging the exciting new App Router feature introduced in Next.js 13, along with the powerful styling capabilities of MUI v5. To watch the tutorial please visit: 
+Welcome to my YouTube tutorial on integrating Next.js 13, the latest version of the popular React framework, with MUI v5, the next generation of Material-UI components. In this comprehensive guide, we will walk you through the process of leveraging the exciting new App Router feature introduced in Next.js 13, along with the powerful styling capabilities of MUI v5. To watch the tutorial please visit: https://youtu.be/w0A08C79bgU
 
 
 Referenced: `https://github.com/mui/material-ui/pull/37315/files#`
